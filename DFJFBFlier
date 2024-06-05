@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="DFJ Flier for July 26th.css">
+    <title>Desperate For Jesus</title>
+</head>
+<header>
+    <H1>Home</H1>
+    <p class="subtitle">A Wise Woman Builds her House Proverbs 14:1</p>
+</header>
+<body>
+    <section  class="itinerary">
+        <h2>Fri, July 26 @ 7p - 830p</h2>
+        <h2>Sat, July 27 @ 9a - 3p</h2>
+        <h4>Saturday Lunch Potluck</h4>
+        <p class="instruction">Please bring at least one dish.  We will have a sign-up sheet for food and drinks.</p>
+    </section>
+    <section class="announcement">
+        <h3>Are You Building Your Home For God's Glory?</h3>
+        <h4>Join Us at Heart of God Fellowship!</h4>
+        <p>We will be live-streaming the conference in the sanctuary.  No limit to attendees and no charge to you!  For teens and adults alike.  Ladies, come join us for fellowship, music, fun, and most importantly Jesus!</p>
+        <p class="instruction">Conference begins at 7p Friday and 9a Saturday, please arrive early to ensure there is no interuptions during the program.</p>
+    </section>
+    <section class="about">
+        <h4>There's No Place Like Home</h4>
+        <link><a href="https://dfjconference.com/">For More Info About the Conference</a></link>
+        <h4>*****IMPORTANT NOTICE - NO NEED TO REGISTER AS OUR CHURCH IS ALREADY REGISTERED FOR THE CONFERENCE*****</h4>
+    </section>
+    <section class="hosts">
+        <h4>Chrystal Hurst - Conference Host</h4>
+        <h4>Priscilla Shirer - Virtual Host</h4>
+    </section>
+    <section class="speakers">
+        <h4 class="speaker">Jackie Hill Perry - Speaker</h4>
+        <h4>Dr. Nicole Massie Martin - Speaker</h4>
+    </section>
+    <section class="music">
+        <h4>Niya Cotton - Worship Leader</h4>
+        <h4>Amber Bullock - Musical Artist</h4>
+    </section>
+    <p>Hey Pam! Send Me My Calendar Reminder!</p>
+    <button type="submit"><a href="mailto:pamlmiller42317@outlook.com?subject=DFJ Conference Reminder">Submit</a></button>
+</body>
+</html>
+
+<style>
+    h1 {
+    font-family: 'Lucida Calligraphy';
+    color: rgb(7, 27, 245);
+    font-size: xx-large;
+}
+html {
+    background-image: radial-gradient(rgb(0, 0, 255, 0.693), rgba(0, 128, 0, 0.723), rgba(255, 127, 80, 0.821),rgba(255, 255, 0, 0.797), rgba(255, 0, 0, 0.733), pink);
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+}
+.subtitle {
+    color: purple;
+    font-style: italic;
+    font-size: medium;
+}
+.itinerary > h4, .instruction {
+    font-weight: bold;
+    font-style: italic;
+}
+.itinerary, .about {
+    border-bottom: 2px groove black;
+}
+music {
+    border-bottom: 2px dashed black;
+}
+</style>
