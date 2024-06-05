@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="DFJ Flier for July 26th.css">
+    <link rel="stylesheet" href="DFJstylesheet.css">
     <title>Desperate For Jesus</title>
 </head>
 <header>
@@ -44,34 +44,3 @@
     <button type="submit"><a href="mailto:pamlmiller42317@outlook.com?subject=DFJ Conference Reminder">Submit</a></button>
 </body>
 </html>
-
-<style>
-    h1 {
-    font-family: 'Lucida Calligraphy';
-    color: rgb(7, 27, 245);
-    font-size: xx-large;
-}
-html {
-    background-image: radial-gradient(rgb(0, 0, 255, 0.693), rgba(0, 128, 0, 0.723), rgba(255, 127, 80, 0.821),rgba(255, 255, 0, 0.797), rgba(255, 0, 0, 0.733), pink);
-    font-weight: bold;
-    text-align: center;
-}
-h2 {
-    font-style: italic;
-}
-.subtitle {
-    color: purple;
-    font-style: italic;
-    font-size: medium;
-}
-.itinerary > h4, .instruction {
-    font-weight: bold;
-    font-style: italic;
-}
-.itinerary, .about {
-    border-bottom: 2px groove black;
-}
-music {
-    border-bottom: 2px dashed black;
-}
-</style>
